@@ -1,0 +1,217 @@
+#wrap #footer .row1 {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #ccc;
+}
+
+#wrap #footer .row1 .container {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+#wrap #footer .row1 .container .row1-row1 {
+    display: flex;
+    padding: 0 0 50px 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left {
+    width: 50%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul {
+    width: 100%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li {
+    width: 100%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li:last-child {
+    padding: 30px 0 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li h2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li h2 strong {
+    font-size: 20px;
+    font-weight: 600;
+    color: #222;
+    margin: 0 10px 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li h1 {
+    padding: 20px 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li h1 a {
+    color: #222;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li span {
+    display: inline-block;
+    width: 140px;
+    height: 40px;
+    border: 1px solid #ccc;
+    margin: 0 8px 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li span a {
+    font-size: 14px;
+    color: #444;
+    display: block;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li span a:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li p {
+    font-size: 12px;
+    line-height: 130%;
+    color: #999;
+}
+
+#wrap #footer .row1 .container .row1-row1 .left ul li p a {
+    color: #999;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right {
+    width: 50%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul {
+    width: 100%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li {
+    width: 100%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(1) {
+    padding: 0 0 35px 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(1) span {
+    margin: 0 10px 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(1) span a {
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(1) span:nth-child(5) a {
+    font-weight: 500;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(2) {
+    color: #999;
+    font-size: 12px;
+    line-height: 140%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(2) span {
+    color: #ccc;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(2) a {
+    color: #5f0080;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(2) br {
+    display: block;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) {
+    padding: 35px 0 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 0 10px 0 0;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url() no-repeat 50% 50%;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span:nth-child(1) a {
+    background-image: url(../img/ico_instagram.png);
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span:nth-child(2) a {
+    background-image: url(../img/ico_fb.png);
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span:nth-child(3) a {
+    background-image: url(../img/ico_blog.png);
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span:nth-child(4) a {
+    background-image: url(../img/ico_naverpost.png);
+}
+
+#wrap #footer .row1 .container .row1-row1 .right ul li:nth-child(3) span:nth-child(5) a {
+    background-image: url(../img/ico_youtube.png);
+}
+
+#wrap #footer .row1 .container .row1-row2 {
+    padding: 20px 0 30px 0;
+}
+
+#wrap #footer .row1 .container .row1-row2 ul {
+    display: flex;
+}
+
+#wrap #footer .row1 .container .row1-row2 ul li {
+    width: 25%;
+}
+
+#wrap #footer .row1 .container .row1-row2 ul li a {
+    font-size: 10px;
+    display: flex;
+}
+
+#wrap #footer .row1 .container .row1-row2 ul li a img {
+    width: auto;
+}
+
+#wrap #footer .row1 .container .row1-row2 ul li a span {
+    margin: 0 0 0 10px;
+    line-height: 130%;
+}
+
+#wrap #footer .row2 {
+    background: #f7f7f7;
+    padding: 20px 0 30px 0;
+}
+
+#wrap #footer .row2 .container {
+    width: 1050px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 130%;
+    color: #999;
+    font-size: 10px;
+}
+
+#wrap #footer .row2 .container p {
+    padding: 0 0 10px 0;
+}
